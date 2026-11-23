@@ -1,1 +1,1 @@
-# Team Teal - COS 209
+# BU-FixIt - COS 209
